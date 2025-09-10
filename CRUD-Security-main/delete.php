@@ -52,6 +52,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <button type="submit" name="confirm" class="confirm-delete">Yes, Delete</button>
     <a href="dashboard.php" class="cancel-btn">Cancel</a>
   </form>
+    <!-- Developed by @Ritesh Kumar Jena -->
 </div>
 </body>
+
 </html>
