@@ -41,5 +41,7 @@ if (!$post) {
     <a class="btn back-btn" href="dashboard.php">⬅ Back to Dashboard</a>
      </div>
 </div>
+    <!-- Developed by @Ritesh Kumar Jena -->
 </body>
 </html>
+
