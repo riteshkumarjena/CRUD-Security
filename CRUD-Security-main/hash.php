@@ -22,5 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <input type="text" name="password" placeholder="Enter password" required>
     <button type="submit">Generate Hash</button>
   </form>
+    <!-- Developed by @Ritesh Kumar Jena -->
 </body>
 </html>
+
