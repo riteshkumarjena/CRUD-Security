@@ -1,3 +1,4 @@
+// @Ritesh Kumar Jena
 <?php
 // Database configuration
 $DB_HOST = "127.0.0.1";       // localhost
@@ -20,3 +21,4 @@ try {
     die("Database connection failed: " . $e->getMessage());
 }
 ?>
+
