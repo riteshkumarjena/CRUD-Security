@@ -12,3 +12,4 @@ session_destroy();
 header("Location: login.php");
 exit;
 ?>
+<!-- Developed by @Ritesh Kumar Jena -->
